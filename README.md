@@ -1,7 +1,9 @@
 cex.io-api-python
 =================
 
-CEX.IO API integration. Python sources.
+CEX.IO API integration. Python 3 version.
+
+_Incompatible with Python 2._
 
 ##Intro
 
